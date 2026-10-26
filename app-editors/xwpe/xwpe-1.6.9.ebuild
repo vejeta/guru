@@ -3,6 +3,8 @@
 
 EAPI=8
 
+inherit xdg
+
 DESCRIPTION="Borland-style programming environment and editor for console and X11"
 HOMEPAGE="https://codeberg.org/mendezr/xwpe"
 # Upstream "make dist" tarball attached to the Codeberg release; it ships a
